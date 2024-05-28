@@ -6,6 +6,8 @@ This is a simple currency converter web application built using JavaScript.
 
 The Currency Converter allows users to convert currencies based on the latest exchange rates fetched from a remote API.
 
+![Currency Convertor Preview](currency-convertor.png)
+
 ## Features
 
 - Convert from one currency to another
